@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>STaSH Ground Labels</title>
+  <id>stash.elin.groundlabels</id>
+  <author>Baconwood Studios</author>
+  <loadPriority>100</loadPriority>
+  <version>0.23.356.1</version>
+  <tags>General,QoL,Utility</tags>
+  <description>Hold Alt to show loose-item labels. Hold Ctrl+Alt to include installed objects such as placed letters and furnishings. Labels never reveal unexplored/hidden map tiles. Includes collision avoidance, adjustable fonts and optional object filters.</description>
+  <builtin>false</builtin>
+  <visibility>Unlisted</visibility>
+</Meta>
