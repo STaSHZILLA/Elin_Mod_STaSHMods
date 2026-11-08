@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>STaSH Ctrl-Wheel Zoom</title>
+  <id>stash.elin.ctrlwheelzoom</id>
+  <author>STaSH</author>
+  <loadPriority>100</loadPriority>
+  <version>0.23.356.1</version>
+  <tags>General,QoL,Utility</tags>
+  <description>Hold Ctrl and scroll the mouse wheel to zoom the normal map camera in or out. Adjustable sensitivity and limits.</description>
+  <builtin>false</builtin>
+  <visibility>Unlisted</visibility>
+</Meta>
